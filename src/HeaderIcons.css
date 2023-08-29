@@ -1,0 +1,19 @@
+.HeaderIcons_icon{
+  
+    
+display: flex;
+flex-direction: column;
+margin-left: 12px;
+align-items: center;
+
+}
+.icons{
+    color:grey;
+}
+.title{
+    color:grey;
+    font-size: 15px;
+}
+.HeaderIcons_icon:hover{
+cursor:pointer;
+}

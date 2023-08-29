@@ -1,0 +1,75 @@
+.posts{
+    margin-top:15px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 20px;
+
+}
+.flex{
+    display: flex;
+    align-items: center;
+    
+}
+.name{
+    font-size: 15px;
+    font-family: 'Belanosima', sans-serif;
+}
+.desc{
+    font-size: 12px;
+    font-family: 'Belanosima', sans-serif;
+}
+.posts_info{
+    margin-left: 6px;
+    margin-bottom: 6px;
+    font-family: 'Belanosima', sans-serif;
+}
+#pp{
+    font-size: 45px;
+}
+.icon{
+    font-size: 45px;
+}
+
+.options{
+    display: flex;
+}
+.msg{
+margin-left: 20px;    
+}
+.posts_body{
+    overflow-wrap: anywhere;
+    font-family: 'Belanosima', sans-serif;
+}
+.t{
+    display: flex;
+    font-size: 10px;
+    margin-top: 10px;
+   
+ 
+
+}
+.h{
+    background-color:blanchedalmond;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 10px;
+}
+.d{
+    display: flex;
+    justify-content: space-between;
+}
+.del{
+    margin-right: 8px;
+    color:black;
+    background-color: white;
+    border:1px thin;
+    border-color:rgba(255, 0, 0, 0.644);;
+    border-radius: 20px;
+    line-height: 2px;
+    font-family: 'Belanosima', sans-serif;;
+
+}
+.del:hover{
+    background-color: rgba(255, 0, 0, 0.644);
+    color: white;
+}
